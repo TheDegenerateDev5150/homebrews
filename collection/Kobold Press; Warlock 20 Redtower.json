@@ -5,6 +5,9 @@
 				"json": "W20RT",
 				"abbreviation": "W20:RT",
 				"full": "Warlock 20: Redtower",
+				"url": "https://koboldpress.com/kpstore/product/warlock-patreon-redtower-pdf/",
+				"version": "1",
+				"dateReleased": "2020-08-05",
 				"authors": [
 					"Kobold Press",
 					"Mike Welham",
@@ -14,9 +17,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2020-08-05",
-				"version": "1",
-				"url": "https://koboldpress.com/kpstore/product/warlock-patreon-redtower-pdf/",
 				"color": "4d4d4d"
 			}
 		],
@@ -25,6 +25,14 @@
 		"dateAdded": 1706899162,
 		"dateLastModified": 1734389822,
 		"_dateLastModifiedHash": "44a9e611ad"
+	},
+	"_test": {
+		"references": [
+			"CCodex",
+			"KPSC",
+			"ToB",
+			"W02DM"
+		]
 	},
 	"monster": [
 		{
@@ -2655,13 +2663,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"CCodex",
-			"KPSC",
-			"ToB",
-			"W02DM"
-		]
-	}
+	]
 }

@@ -5,6 +5,9 @@
 				"json": "HumblewoodCampaignSetting",
 				"abbreviation": "HWCS",
 				"full": "Humblewood Campaign Setting",
+				"url": "https://marketplace.dndbeyond.com/category/SRC-00133",
+				"version": "1.0.7",
+				"dateReleased": "2019-06-17",
 				"authors": [
 					"Hit Point Press"
 				],
@@ -13,9 +16,6 @@
 					"Ragu",
 					"Spappz"
 				],
-				"dateReleased": "2019-06-17",
-				"version": "1.0.7",
-				"url": "https://marketplace.dndbeyond.com/category/SRC-00133",
 				"partnered": true,
 				"color": "D0914B"
 			}

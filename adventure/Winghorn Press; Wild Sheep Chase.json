@@ -5,6 +5,9 @@
 				"json": "WSC",
 				"abbreviation": "WSC",
 				"full": "The Wild Sheep Chase",
+				"url": "https://www.dmsguild.com/product/170937/The-Wild-Sheep-Chase--A-SingleSession-Adventure",
+				"version": "V2.0 (June 30, 2016)",
+				"dateReleased": "2016-01-13",
 				"authors": [
 					"Winghorn Press"
 				],
@@ -12,9 +15,6 @@
 					"Lyra [he/him]",
 					"SailorCat"
 				],
-				"dateReleased": "2016-01-13",
-				"version": "V2.0 (June 30, 2016)",
-				"url": "https://www.dmsguild.com/product/170937/The-Wild-Sheep-Chase--A-SingleSession-Adventure",
 				"color": "0eb753"
 			}
 		],

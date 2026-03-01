@@ -5,6 +5,9 @@
 				"json": "PKB",
 				"abbreviation": "PKB",
 				"full": "Pathfinder: Kingmaker Bestiary (5e)",
+				"url": "https://paizo.com/products/btq02e0o?Pathfinder-Kingmaker-Bestiary",
+				"version": "1",
+				"dateReleased": "2022-11-08",
 				"authors": [
 					"Alex Riggs",
 					"Chris Perrin",
@@ -22,9 +25,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-11-08",
-				"version": "1",
-				"url": "https://paizo.com/products/btq02e0o?Pathfinder-Kingmaker-Bestiary",
 				"color": "275125"
 			}
 		],

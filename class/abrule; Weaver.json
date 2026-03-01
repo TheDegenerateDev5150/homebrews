@@ -6,14 +6,14 @@
 				"json": "ABWeaver",
 				"abbreviation": "WSK",
 				"full": "Weaver",
+				"url": "https://homebrewery.naturalcrit.com/share/zPlo083oTH7H",
+				"version": "5.0",
 				"authors": [
 					"abrule"
 				],
 				"convertedBy": [
 					"abrule"
-				],
-				"url": "https://homebrewery.naturalcrit.com/share/zPlo083oTH7H",
-				"version": "5.0"
+				]
 			}
 		],
 		"optionalFeatureTypes": {

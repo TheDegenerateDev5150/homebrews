@@ -5,6 +5,8 @@
 				"json": "MonsterManualExpanded",
 				"abbreviation": "MME",
 				"full": "Monster Manual Expanded (v1)",
+				"url": "https://www.dmsguild.com/product/267678/Monster-Manual-Expanded-5E",
+				"version": "1.19",
 				"authors": [
 					"Dragonix"
 				],
@@ -13,8 +15,6 @@
 					"Darkfalli",
 					"Spappz"
 				],
-				"version": "1.19",
-				"url": "https://www.dmsguild.com/product/267678/Monster-Manual-Expanded-5E",
 				"color": "BD7044"
 			}
 		],

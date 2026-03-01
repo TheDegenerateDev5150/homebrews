@@ -5,15 +5,15 @@
 				"json": "NMD",
 				"abbreviation": "NMD",
 				"full": "The Nomad: A Class for Planar Travelers",
+				"url": "https://www.gmbinder.com/share/-LBS9acGhZ4KbKb5m8hj",
+				"version": "2.1",
+				"dateReleased": "2018-09-05",
 				"authors": [
 					"Vincent Girgenti (u/SubjectiveSloth)"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2018-09-05",
-				"version": "2.1",
-				"url": "https://www.gmbinder.com/share/-LBS9acGhZ4KbKb5m8hj",
 				"color": "d0b5ef"
 			}
 		],

@@ -5,6 +5,9 @@
 				"json": "Ar3",
 				"abbreviation": "Ar3",
 				"full": "Arcadia Issue 3",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.0",
+				"dateReleased": "2021-03-24",
 				"authors": [
 					"Alison Huang",
 					"Celeste Conowitch",
@@ -16,9 +19,6 @@
 					"jimmypringles",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-03-24",
-				"version": "1.0",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "0b231f"
 			}
 		],
@@ -32,6 +32,11 @@
 		"dateAdded": 1620088248,
 		"dateLastModified": 1767026822,
 		"_dateLastModifiedHash": "7099caf7d8"
+	},
+	"_test": {
+		"references": [
+			"Ar1"
+		]
 	},
 	"race": [
 		{
@@ -15607,10 +15612,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"Ar1"
-		]
-	}
+	]
 }

@@ -5,6 +5,8 @@
 				"json": "MercerGunslinger",
 				"abbreviation": "CR",
 				"full": "Gunslinger",
+				"url": "http://www.dmsguild.com/product/170778/Gunslinger-Martial-Archetype-for-Fighters",
+				"version": "1.3",
 				"authors": [
 					"Matthew Mercer"
 				],
@@ -12,8 +14,6 @@
 					"Giddy",
 					"Lyra [he/him]"
 				],
-				"version": "1.3",
-				"url": "http://www.dmsguild.com/product/170778/Gunslinger-Martial-Archetype-for-Fighters",
 				"color": "a68570"
 			}
 		],

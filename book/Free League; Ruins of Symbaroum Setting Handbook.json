@@ -5,15 +5,15 @@
 				"json": "RuinsOfSymbaroumSettingHandbook",
 				"abbreviation": "RoS:SH",
 				"full": "Ruins of Symbaroum: Setting Handbook",
+				"url": "https://marketplace.dndbeyond.com/category/DBNPVZHIA",
+				"version": "1.0.0",
+				"dateReleased": "2025-05-29",
 				"authors": [
 					"Free League"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2025-05-29",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/DBNPVZHIA",
 				"partnered": true,
 				"color": "b44949"
 			}

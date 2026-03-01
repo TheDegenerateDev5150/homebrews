@@ -5,6 +5,9 @@
 				"json": "WCE",
 				"abbreviation": "WCE",
 				"full": "Waterdeep City Encounters",
+				"url": "https://www.dmsguild.com/product/251816/Waterdeep-City-Encounters",
+				"version": "V1.2",
+				"dateReleased": "2018-11-17",
 				"authors": [
 					"Alan Patrick",
 					"Cindy Moore",
@@ -19,9 +22,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2018-11-17",
-				"version": "V1.2",
-				"url": "https://www.dmsguild.com/product/251816/Waterdeep-City-Encounters",
 				"color": "6d2423"
 			}
 		],

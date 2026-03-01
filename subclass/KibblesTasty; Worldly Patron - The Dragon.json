@@ -5,15 +5,15 @@
 				"json": "KibDragonPatron",
 				"abbreviation": "KT: TD",
 				"full": "Worldly Patron - The Dragon",
+				"url": "https://www.gmbinder.com/share/-MjAx7CqmUwg0b1wu5Jw",
+				"version": "1.1",
+				"dateReleased": "2021-10-08",
 				"authors": [
 					"KibblesTasty"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-10-08",
-				"version": "1.1",
-				"url": "https://www.gmbinder.com/share/-MjAx7CqmUwg0b1wu5Jw",
 				"color": "CA5707",
 				"targetSchema": "1.0.1"
 			}
@@ -23,6 +23,11 @@
 		"dateAdded": 1635791821,
 		"dateLastModified": 1731886430,
 		"_dateLastModifiedHash": "d0fa64286a"
+	},
+	"_test": {
+		"references": [
+			"KibblesTasty:CC"
+		]
 	},
 	"subclass": [
 		{
@@ -552,10 +557,5 @@
 				"When you use {@spell true polymorph} on yourself to take the form of a dragon and allow it to become a permanent effect, the effect cannot be dispelled, and for all intents and purposes of the rules, you become a dragon. This does not revert even if you die, and can only be reversed by {@spell wish} if you allow it to be."
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"KibblesTasty:CC"
-		]
-	}
+	]
 }

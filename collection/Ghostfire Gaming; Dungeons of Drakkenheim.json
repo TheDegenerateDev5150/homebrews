@@ -5,15 +5,15 @@
 				"json": "DungeonsDrakkenheim",
 				"abbreviation": "DoDk",
 				"full": "Dungeons of Drakkenheim",
+				"url": "https://marketplace.dndbeyond.com/category/SRC-00131",
+				"version": "1.0.0",
+				"dateReleased": "2023-12-21",
 				"authors": [
 					"Ghostfire Gaming"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2023-12-21",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/SRC-00131",
 				"partnered": true,
 				"color": "825494",
 				"colorNight": "9661ab"

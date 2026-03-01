@@ -5,15 +5,15 @@
 				"json": "TRRES",
 				"abbreviation": "TRRES",
 				"full": "The Revised Ranger Extended Subclasses",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "Site v1.194.0",
 				"authors": [
 					"Wizards of the Coast"
 				],
 				"convertedBy": [
 					"Giddy",
 					"Lyra [he/him]"
-				],
-				"version": "Site v1.194.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				]
 			}
 		],
 		"dependencies": {

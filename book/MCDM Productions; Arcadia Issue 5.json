@@ -5,6 +5,9 @@
 				"json": "Ar5",
 				"abbreviation": "Ar5",
 				"full": "Arcadia Issue 5",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.0",
+				"dateReleased": "2021-06-23",
 				"authors": [
 					"Carlos Cisco",
 					"James Introcaso",
@@ -15,9 +18,6 @@
 					"Lyra [he/him]",
 					"Somebody"
 				],
-				"dateReleased": "2021-06-23",
-				"version": "1.0",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "22503d"
 			}
 		],
@@ -31,6 +31,12 @@
 		"dateAdded": 1626427893,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "50de1c742a"
+	},
+	"_test": {
+		"references": [
+			"Ar3",
+			"SaF"
+		]
 	},
 	"subclass": [
 		{
@@ -4548,11 +4554,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"Ar3",
-			"SaF"
-		]
-	}
+	]
 }

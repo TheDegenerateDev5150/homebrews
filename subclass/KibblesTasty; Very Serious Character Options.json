@@ -5,15 +5,15 @@
 				"json": "KTVSCO",
 				"abbreviation": "KT:VSCO",
 				"full": "Very Serious Character Options",
+				"url": "https://www.reddit.com/r/UnearthedArcana/comments/1bt3lav/oath_of_the_goodest_boi_20_smite_evil_and_acquire/",
+				"version": "3.0",
+				"dateReleased": "2025-04-01",
 				"authors": [
 					"KibblesTasty"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2025-04-01",
-				"version": "3.0",
-				"url": "https://www.reddit.com/r/UnearthedArcana/comments/1bt3lav/oath_of_the_goodest_boi_20_smite_evil_and_acquire/",
 				"color": "c68d5e"
 			}
 		],
@@ -22,6 +22,11 @@
 		"dateAdded": 1712163563,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "0331e6b2de"
+	},
+	"_test": {
+		"references": [
+			"KibblesTasty:CC"
+		]
 	},
 	"subclass": [
 		{
@@ -1534,10 +1539,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"KibblesTasty:CC"
-		]
-	}
+	]
 }

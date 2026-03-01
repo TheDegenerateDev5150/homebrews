@@ -5,14 +5,14 @@
 				"json": "MtgElementalsPath",
 				"abbreviation": "MTG",
 				"full": "Magic the Gathering: Elementals' Path",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1.0.0",
 				"authors": [
 					"Wizards of the Coast"
 				],
 				"convertedBy": [
 					"Giddy"
-				],
-				"version": "1.0.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				]
 			}
 		],
 		"edition": "classic",

@@ -5,6 +5,9 @@
 				"json": "TLotRR",
 				"abbreviation": "TLotRR",
 				"full": "The Lord of the Rings Roleplaying",
+				"url": "https://marketplace.dndbeyond.com/category/DB0000154",
+				"version": "1.0.0",
+				"dateReleased": "2024-11-26",
 				"authors": [
 					"Free League",
 					"Middle-earth Enterprises",
@@ -14,9 +17,6 @@
 					"Giddy",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2024-11-26",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/DB0000154",
 				"partnered": true,
 				"color": "616734"
 			}

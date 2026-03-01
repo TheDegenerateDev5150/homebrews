@@ -5,15 +5,15 @@
 				"json": "IllriggerRevised",
 				"abbreviation": "IllR",
 				"full": "The Illrigger Revised",
+				"url": "https://marketplace.dndbeyond.com/category/DB0000155",
+				"version": "Revised 1.0",
+				"dateReleased": "2023-12-05",
 				"authors": [
 					"MCDM Productions"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2023-12-05",
-				"version": "Revised 1.0",
-				"url": "https://marketplace.dndbeyond.com/category/DB0000155",
 				"partnered": true,
 				"color": "933a4c"
 			}

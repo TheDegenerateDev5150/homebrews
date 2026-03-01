@@ -5,18 +5,18 @@
 				"json": "EssentialNPCs",
 				"abbreviation": "ENPC",
 				"full": "Essential NPCs",
-				"version": "2.1",
 				"url": "https://www.drivethrurpg.com/en/product/476038/essential-npcs",
+				"version": "2.1",
+				"dateReleased": "2024-04-01",
 				"authors": [
-					"Trent McCay",
-					"Jonah Leslie"
+					"Jonah Leslie",
+					"Trent McCay"
 				],
 				"convertedBy": [
 					"adros47",
 					"Lyra [he/him]"
 				],
-				"color": "ba4040",
-				"dateReleased": "2024-04-01"
+				"color": "ba4040"
 			}
 		],
 		"edition": "classic",

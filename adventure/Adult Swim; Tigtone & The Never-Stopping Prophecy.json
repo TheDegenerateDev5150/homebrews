@@ -5,6 +5,9 @@
 				"json": "TTNSP",
 				"abbreviation": "TTNSP",
 				"full": "Tigtone & the Never-Stopping Prophecy",
+				"url": "https://www.adultswim.com/misc/tigtonesquest/",
+				"version": "1",
+				"dateReleased": "2020-11-03",
 				"authors": [
 					"Adult Swim",
 					"Andrew Koehler",
@@ -14,9 +17,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2020-11-03",
-				"version": "1",
-				"url": "https://www.adultswim.com/misc/tigtonesquest/",
 				"color": "2a4c03"
 			}
 		],

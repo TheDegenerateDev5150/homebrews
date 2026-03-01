@@ -5,15 +5,15 @@
 				"json": "TMR",
 				"abbreviation": "TMR",
 				"full": "The Martial Ranger",
+				"url": "https://www.gmbinder.com/share/-MTSf1NxHva3nZH6U45C",
+				"version": "v7",
+				"dateReleased": "2022-08-11",
 				"authors": [
 					"AgenderArcee"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-08-11",
-				"version": "v7",
-				"url": "https://www.gmbinder.com/share/-MTSf1NxHva3nZH6U45C",
 				"color": "cfe7ce"
 			}
 		],
@@ -27,6 +27,11 @@
 		"dateAdded": 1660992296,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "1127b33616"
+	},
+	"_test": {
+		"references": [
+			"UAModifyingClasses"
+		]
 	},
 	"class": [
 		{
@@ -9158,10 +9163,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"UAModifyingClasses"
-		]
-	}
+	]
 }

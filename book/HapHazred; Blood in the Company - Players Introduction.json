@@ -5,14 +5,14 @@
 				"json": "BloodInTheCompany",
 				"abbreviation": "BITC",
 				"full": "Blood in the Company",
+				"url": "https://homebrewery.naturalcrit.com/share/Cx5Tc4r9-_zT",
+				"version": "20210531",
 				"authors": [
 					"HapHazred"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"version": "20210531",
-				"url": "https://homebrewery.naturalcrit.com/share/Cx5Tc4r9-_zT",
 				"color": "8f7411",
 				"targetSchema": "1.6.0"
 			}

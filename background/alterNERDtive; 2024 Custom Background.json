@@ -3,18 +3,18 @@
 		"sources": [
 			{
 				"json": "2024CustomBackground",
-				"full": "Custom Background (2024 Rules)",
 				"abbreviation": "CB'24",
-				"color": "ff00ff",
+				"full": "Custom Background (2024 Rules)",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1.0",
+				"dateReleased": "2025-03-30",
 				"authors": [
 					"alterNERDtive"
 				],
 				"convertedBy": [
 					"alterNERDtive"
 				],
-				"dateReleased": "2025-03-30",
-				"version": "1.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				"color": "ff00ff"
 			}
 		],
 		"edition": "one",
@@ -82,6 +82,11 @@
 					"any": 2
 				}
 			],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
 			"startingEquipment": [
 				{
 					"_": [
@@ -89,11 +94,6 @@
 							"value": 5000
 						}
 					]
-				}
-			],
-			"toolProficiencies": [
-				{
-					"any": 1
 				}
 			],
 			"entries": [

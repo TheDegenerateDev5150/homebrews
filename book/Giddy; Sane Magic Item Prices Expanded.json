@@ -5,6 +5,8 @@
 				"json": "SaneMagicItemPricesExpanded",
 				"abbreviation": "SMIP2",
 				"full": "Sane Magic Item Prices Expanded",
+				"url": "http://www.giantitp.com/forums/showthread.php?424243",
+				"version": "1.0",
 				"authors": [
 					"Giddy",
 					"Lyra [he/him]",
@@ -14,9 +16,7 @@
 				"convertedBy": [
 					"Giddy",
 					"Lyra [he/him]"
-				],
-				"version": "1.0",
-				"url": "http://www.giantitp.com/forums/showthread.php?424243"
+				]
 			}
 		],
 		"dependencies": {

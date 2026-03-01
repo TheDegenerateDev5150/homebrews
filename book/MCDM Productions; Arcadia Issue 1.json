@@ -5,6 +5,9 @@
 				"json": "Ar1",
 				"abbreviation": "Ar1",
 				"full": "Arcadia Issue 1",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.01",
+				"dateReleased": "2021-01-13",
 				"authors": [
 					"Gabe Hicks",
 					"Leon Barillaro",
@@ -15,9 +18,6 @@
 					"Jenny",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-01-13",
-				"version": "1.01",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "87748a"
 			}
 		],
@@ -33,6 +33,11 @@
 		"dateAdded": 1613648837,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "d33dff0512"
+	},
+	"_test": {
+		"references": [
+			"SaF"
+		]
 	},
 	"subclass": [
 		{
@@ -7149,10 +7154,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"SaF"
-		]
-	}
+	]
 }

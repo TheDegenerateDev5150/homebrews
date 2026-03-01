@@ -5,8 +5,8 @@
 				"json": "CarreausWeaponCantrips",
 				"abbreviation": "CarreauWC",
 				"full": "Carreau's Weapon Cantrips",
-				"version": "0.1",
 				"url": "https://www.gmbinder.com/share/-NLfZ6JJKn050g0OVh3I",
+				"version": "0.1",
 				"authors": [
 					"LeRoiDeCarreau"
 				],
@@ -17,9 +17,9 @@
 				"colorNight": "85b5dc"
 			}
 		],
+		"edition": "classic",
 		"dateAdded": 1765118264,
 		"dateLastModified": 1765118264,
-		"edition": "classic",
 		"_dateLastModifiedHash": "e6962a1619"
 	},
 	"spell": [

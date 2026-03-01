@@ -5,6 +5,9 @@
 				"json": "Arcadia21",
 				"abbreviation": "Ar21",
 				"full": "Arcadia Issue 21",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.0",
+				"dateReleased": "2022-10-26",
 				"authors": [
 					"Banana Chan",
 					"Celeste Conowitch",
@@ -14,9 +17,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-10-26",
-				"version": "1.0",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "ff5311"
 			}
 		],
@@ -30,6 +30,13 @@
 		"dateAdded": 1725791262,
 		"dateLastModified": 1734389822,
 		"_dateLastModifiedHash": "654f80919b"
+	},
+	"_test": {
+		"references": [
+			"BST",
+			"ILL",
+			"TalPsi"
+		]
 	},
 	"reward": [
 		{
@@ -5429,12 +5436,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"BST",
-			"ILL",
-			"TalPsi"
-		]
-	}
+	]
 }

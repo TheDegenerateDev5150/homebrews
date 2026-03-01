@@ -5,6 +5,9 @@
 				"json": "NMD:BN",
 				"abbreviation": "NMD:BN",
 				"full": "The Nomad: A Class for Planar Travelers - Modified",
+				"url": "https://docs.google.com/document/d/1Ge7prcNKIkDkce1IwaLAcqRQrVQ1eech15202CHwLuo/edit",
+				"version": "2.1",
+				"dateReleased": "2022-08-26",
 				"authors": [
 					"Blubber Nibble#8845",
 					"Vincent Girgenti (u/SubjectiveSloth)"
@@ -12,24 +15,21 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-08-26",
-				"version": "2.1",
-				"url": "https://docs.google.com/document/d/1Ge7prcNKIkDkce1IwaLAcqRQrVQ1eech15202CHwLuo/edit",
 				"color": "d0b5ef"
 			},
 			{
 				"json": "OathOftheUnconquered2",
 				"abbreviation": "OOtU",
 				"full": "Oath Of the Unconquered",
+				"url": "https://docs.google.com/document/d/1-2CAF_iBYW9bL_y-Ek5vewwx4G6U7qAydcKVn9-sm8s/edit#heading=h.mw0izismkiav",
+				"version": "1.0",
+				"dateReleased": "2022-12-01",
 				"authors": [
 					"Blubber Nibble"
 				],
 				"convertedBy": [
 					"MrVauxs"
-				],
-				"dateReleased": "2022-12-01",
-				"version": "1.0",
-				"url": "https://docs.google.com/document/d/1-2CAF_iBYW9bL_y-Ek5vewwx4G6U7qAydcKVn9-sm8s/edit#heading=h.mw0izismkiav"
+				]
 			}
 		],
 		"dependencies": {
@@ -50,6 +50,11 @@
 		"dateAdded": 1661773477,
 		"dateLastModified": 1772124006,
 		"_dateLastModifiedHash": "4fedabf304"
+	},
+	"_test": {
+		"references": [
+			"NMD"
+		]
 	},
 	"class": [
 		{
@@ -1191,10 +1196,5 @@
 				"You have trained yourself to utilize portals while throwing weapons accurately, allowing thrown weapons to make {@classFeature Far Strike|Nomad (Modified)|NMD:BN|1|NMD:BN} attacks. The range of your thrown weapon attacks increases by your {@classFeature far strike|Nomad (Modified)|NMD:BN|1|NMD:BN} range. Additionally, when you make an unsuccessful thrown weapon attack, your weapon returns to your hand immediately through a second portal."
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"NMD"
-		]
-	}
+	]
 }

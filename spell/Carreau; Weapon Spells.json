@@ -5,8 +5,8 @@
 				"json": "CarreausWeaponSpellsCantrips",
 				"abbreviation": "CarreauWS",
 				"full": "Carreau's Weapon Spells",
-				"version": "0.1",
 				"url": "https://www.gmbinder.com/share/-MkuuemRvdFiuIDisoWu",
+				"version": "0.1",
 				"authors": [
 					"LeRoiDeCarreau"
 				],
@@ -16,9 +16,9 @@
 				"color": "4183f0"
 			}
 		],
+		"edition": "classic",
 		"dateAdded": 1764696068,
 		"dateLastModified": 1764696068,
-		"edition": "classic",
 		"_dateLastModifiedHash": "ce0031b740"
 	},
 	"spell": [

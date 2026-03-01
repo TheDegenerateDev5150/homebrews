@@ -5,15 +5,15 @@
 				"json": "TalesFromTheShadows",
 				"abbreviation": "TftS",
 				"full": "Tales from the Shadows",
+				"url": "https://marketplace.dndbeyond.com/beyond-digital/SRC-00152",
+				"version": "1.0.0",
+				"dateReleased": "2022-10-22",
 				"authors": [
 					"Kobold Press"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2022-10-22",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/beyond-digital/SRC-00152",
 				"partnered": true
 			}
 		],

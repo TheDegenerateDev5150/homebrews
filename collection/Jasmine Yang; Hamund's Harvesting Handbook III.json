@@ -5,6 +5,9 @@
 				"json": "HHHVIII",
 				"abbreviation": "HHHVIII",
 				"full": "Hamund's Harvesting Handbook: Volume III",
+				"url": "https://www.dmsguild.com/product/337053/Hamunds-Harvesting-Handbook-Volume-3",
+				"version": "v1.0",
+				"dateReleased": "2020-11-23",
 				"authors": [
 					"Drifters Games Workshop",
 					"Jasmine Yang"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2020-11-23",
-				"version": "v1.0",
-				"url": "https://www.dmsguild.com/product/337053/Hamunds-Harvesting-Handbook-Volume-3",
 				"color": "cb9b5b"
 			}
 		],
@@ -27,6 +27,12 @@
 		"dateAdded": 1665076023,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "812fb4715c"
+	},
+	"_test": {
+		"references": [
+			"HHHVI",
+			"HHHVII"
+		]
 	},
 	"subclass": [
 		{
@@ -29515,11 +29521,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"HHHVI",
-			"HHHVII"
-		]
-	}
+	]
 }

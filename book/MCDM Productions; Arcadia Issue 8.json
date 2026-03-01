@@ -5,6 +5,9 @@
 				"json": "Ar8",
 				"abbreviation": "Ar8",
 				"full": "Arcadia Issue 8",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "10/2021",
+				"dateReleased": "2021-09-29",
 				"authors": [
 					"Bianca Bickford",
 					"James Intracaso",
@@ -16,9 +19,6 @@
 					"ForeverAlwaysGM (Billiam94)",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-09-29",
-				"version": "10/2021",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "2acc74"
 			}
 		],
@@ -27,6 +27,12 @@
 		"dateAdded": 1649542017,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "ec5e7a82f6"
+	},
+	"_test": {
+		"references": [
+			"KaW",
+			"SaF"
+		]
 	},
 	"subclass": [
 		{
@@ -7216,11 +7222,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"KaW",
-			"SaF"
-		]
-	}
+	]
 }

@@ -5,6 +5,9 @@
 				"json": "GHMG",
 				"abbreviation": "GHMG",
 				"full": "Grim Hollow: The Monster Grimoire",
+				"url": "https://ghostfiregaming.com/product/grim-hollow-the-monster-grimoire-book/",
+				"version": "2021",
+				"dateReleased": "2022-05-01",
 				"authors": [
 					"Ghostfire Gaming",
 					"Shawn Merwin"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-05-01",
-				"version": "2021",
-				"url": "https://ghostfiregaming.com/product/grim-hollow-the-monster-grimoire-book/",
 				"color": "94afc4"
 			}
 		],
@@ -35,6 +35,11 @@
 		"dateAdded": 1686497951,
 		"dateLastModified": 1758919826,
 		"_dateLastModifiedHash": "d11460bcbc"
+	},
+	"_test": {
+		"references": [
+			"GH"
+		]
 	},
 	"race": [
 		{
@@ -111840,10 +111845,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"GH"
-		]
-	}
+	]
 }

@@ -5,6 +5,9 @@
 				"json": "TWOC",
 				"abbreviation": "TWOC",
 				"full": "The Witcher Official Cookbook",
+				"url": "https://www.gollancz.co.uk/titles/anita-sarna/the-witcher-official-cookbook/9781399615631/",
+				"version": "2023",
+				"dateReleased": "2023-11-23",
 				"authors": [
 					"Anita Sarna",
 					"Karolina Krupecka"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-11-23",
-				"version": "2023",
-				"url": "https://www.gollancz.co.uk/titles/anita-sarna/the-witcher-official-cookbook/9781399615631/",
 				"color": "b4b1a8"
 			}
 		],

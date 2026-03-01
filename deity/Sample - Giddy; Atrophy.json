@@ -5,11 +5,11 @@
 				"json": "GiddyDeity",
 				"abbreviation": "Brew",
 				"full": "Sample",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1.0.0",
 				"authors": [
 					"Giddy"
-				],
-				"version": "1.0.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				]
 			}
 		],
 		"edition": "classic",

@@ -5,6 +5,9 @@
 				"json": "BDPC",
 				"abbreviation": "BDPC",
 				"full": "Blazing Dawn Player's Companion",
+				"url": "https://drive.google.com/file/d/1QW0PNuxZlYRsc7wqYICyeguoKVc52df3/view",
+				"version": "v1.0",
+				"dateReleased": "2021-08-21",
 				"authors": [
 					"Jonoman3000"
 				],
@@ -13,9 +16,6 @@
 					"Lxran",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-08-21",
-				"version": "v1.0",
-				"url": "https://drive.google.com/file/d/1QW0PNuxZlYRsc7wqYICyeguoKVc52df3/view",
 				"color": "db9254"
 			}
 		],

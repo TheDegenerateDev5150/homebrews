@@ -5,15 +5,15 @@
 				"json": "TalDoreiCampaignSettingReborn",
 				"abbreviation": "TDCSR",
 				"full": "Tal'Dorei Campaign Setting Reborn",
+				"url": "https://marketplace.dndbeyond.com/TTRPG/SRC-00123",
+				"version": "1.0.0",
+				"dateReleased": "2022-01-18",
 				"authors": [
 					"Darrington Press"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-01-18",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/TTRPG/SRC-00123",
 				"partnered": true,
 				"color": "642e4b",
 				"colorNight": "a1557e"

@@ -5,15 +5,15 @@
 				"json": "KftGV:CC",
 				"abbreviation": "KftGV:CC",
 				"full": "Keys from the Golden Vault: Calling Cards",
+				"url": "https://dnd.wizards.com/products/keys-from-the-golden-vault",
+				"version": "1",
+				"dateReleased": "2023-02-21",
 				"authors": [
 					"WotC"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-02-21",
-				"version": "1",
-				"url": "https://dnd.wizards.com/products/keys-from-the-golden-vault",
 				"color": "dc9d68"
 			}
 		],

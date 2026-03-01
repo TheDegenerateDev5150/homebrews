@@ -5,15 +5,15 @@
 				"json": "Generic Oversized Longbow",
 				"abbreviation": "WDH-GOL",
 				"full": "Generic Oversized Longbow",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1",
+				"dateReleased": "2023-12-12",
 				"authors": [
 					"enders"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-12-12",
-				"version": "1",
-				"url": "https://github.com/TheGiddyLimit/homebrew",
 				"color": "d4af37"
 			}
 		],

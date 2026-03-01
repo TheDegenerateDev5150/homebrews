@@ -5,6 +5,9 @@
 				"json": "KPSC",
 				"abbreviation": "KPSC",
 				"full": "Scarlet Citadel, A Dungeon of Secrets",
+				"url": "https://koboldpress.com/kpstore/product/scarlet-citadel-for-5th-edition/",
+				"version": "2 4 6 8 10 9 7 5 3 + Errata 05/29/2025",
+				"dateReleased": "2021-08-10",
 				"authors": [
 					"Kobold Press",
 					"Steve Winter"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-08-10",
-				"version": "2 4 6 8 10 9 7 5 3 + Errata 05/29/2025",
-				"url": "https://koboldpress.com/kpstore/product/scarlet-citadel-for-5th-edition/",
 				"color": "f59932"
 			}
 		],
@@ -41,6 +41,16 @@
 		"dateAdded": 1703673674,
 		"dateLastModified": 1752079499,
 		"_dateLastModifiedHash": "4c9d255ccf"
+	},
+	"_test": {
+		"references": [
+			"CCodex",
+			"DM05",
+			"DM07",
+			"KPDM",
+			"ToB",
+			"W02DM"
+		]
 	},
 	"item": [
 		{
@@ -65117,15 +65127,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"CCodex",
-			"DM05",
-			"DM07",
-			"KPDM",
-			"ToB",
-			"W02DM"
-		]
-	}
+	]
 }

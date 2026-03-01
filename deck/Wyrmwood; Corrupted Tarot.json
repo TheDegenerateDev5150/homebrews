@@ -5,15 +5,15 @@
 				"json": "WWCT",
 				"abbreviation": "WWCT",
 				"full": "Wyrmwood: Corrupted Tarot",
+				"url": "https://wyrmwoodgaming.com/corrupted-tarot-card-gallery/",
+				"version": "1.0",
+				"dateReleased": "2021-10-19",
 				"authors": [
 					"Wyrmwood"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-10-19",
-				"version": "1.0",
-				"url": "https://wyrmwoodgaming.com/corrupted-tarot-card-gallery/",
 				"color": "8f9484"
 			}
 		],

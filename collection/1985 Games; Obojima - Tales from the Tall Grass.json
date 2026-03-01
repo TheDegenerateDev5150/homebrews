@@ -5,15 +5,15 @@
 				"json": "ObojimaTallGrass",
 				"abbreviation": "O:TTG",
 				"full": "Obojima: Tales from the Tall Grass",
+				"url": "https://obojima.com/",
+				"version": "1.0.0",
+				"dateReleased": "2024-11-01",
 				"authors": [
 					"1985 Games"
 				],
 				"convertedBy": [
 					"Unknown"
 				],
-				"dateReleased": "2024-11-01",
-				"version": "1.0.0",
-				"url": "https://obojima.com/",
 				"partnered": true,
 				"color": "1388B4"
 			}

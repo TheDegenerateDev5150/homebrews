@@ -5,6 +5,9 @@
 				"json": "HumblewoodTales",
 				"abbreviation": "HWT",
 				"full": "Humblewood Tales",
+				"url": "https://marketplace.dndbeyond.com/category/DB0000158",
+				"version": "1.0.0",
+				"dateReleased": "2023-02-28",
 				"authors": [
 					"Hit Point Press"
 				],
@@ -12,9 +15,6 @@
 					"Giddy",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-02-28",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/DB0000158",
 				"partnered": true,
 				"color": "A963B6"
 			}
@@ -48,6 +48,11 @@
 		"dateAdded": 1738450467,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "08a23f9b3d"
+	},
+	"_test": {
+		"references": [
+			"HumblewoodCampaignSetting"
+		]
 	},
 	"subclass": [
 		{
@@ -34396,10 +34401,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"HumblewoodCampaignSetting"
-		]
-	}
+	]
 }

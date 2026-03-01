@@ -5,15 +5,15 @@
 				"json": "GrimHollowLairsEtharis",
 				"abbreviation": "GHLoE",
 				"full": "Grim Hollow: Lairs of Etharis",
+				"url": "https://marketplace.dndbeyond.com/category/SRC-00130",
+				"version": "1.0.0",
+				"dateReleased": "2023-11-30",
 				"authors": [
 					"Ghostfire Gaming"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2023-11-30",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/SRC-00130",
 				"partnered": true,
 				"color": "c07e4e"
 			}

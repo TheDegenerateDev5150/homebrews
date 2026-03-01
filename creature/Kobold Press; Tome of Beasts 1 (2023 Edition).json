@@ -5,15 +5,15 @@
 				"json": "ToB1-2023",
 				"abbreviation": "ToB1'23",
 				"full": "Tome of Beasts 1 (2023 Edition)",
+				"url": "https://marketplace.dndbeyond.com/category/SRC-00139",
+				"version": "1.0.0",
+				"dateReleased": "2023-05-31",
 				"authors": [
 					"Kobold Press"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2023-05-31",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/category/SRC-00139",
 				"partnered": true,
 				"color": "917792"
 			}

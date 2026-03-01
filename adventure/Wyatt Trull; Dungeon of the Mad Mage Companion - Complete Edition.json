@@ -5,15 +5,15 @@
 				"json": "WDMMC",
 				"abbreviation": "WDMMC",
 				"full": "Dungeon of the Mad Mage Companion - Complete Edition",
+				"url": "https://www.dmsguild.com/product/311108/DotMM-Companion-Complete-Edition",
+				"version": "v1.0",
+				"dateReleased": "2020-05-29",
 				"authors": [
 					"Wyatt Trull"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2020-05-29",
-				"version": "v1.0",
-				"url": "https://www.dmsguild.com/product/311108/DotMM-Companion-Complete-Edition",
 				"color": "4e3e59"
 			}
 		],

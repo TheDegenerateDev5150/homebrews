@@ -5,6 +5,9 @@
 				"json": "Honkrasque",
 				"abbreviation": "HRSQ",
 				"full": "Honkrasque: Lost Pages of the Honkonomicon",
+				"url": "https://www.dmsguild.com/en/product/431590/honkrasque",
+				"version": "Aug 07, 2025",
+				"dateReleased": "2023-03-25",
 				"authors": [
 					"Echidna Design",
 					"Paolo Davolio"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-03-25",
-				"version": "Aug 07, 2025",
-				"url": "https://www.dmsguild.com/en/product/431590/honkrasque",
 				"color": "c9a264"
 			}
 		],
@@ -23,6 +23,11 @@
 		"dateAdded": 1766930750,
 		"dateLastModified": 1766930750,
 		"_dateLastModifiedHash": "bca8b3f4ca"
+	},
+	"_test": {
+		"references": [
+			"Honkonomicon"
+		]
 	},
 	"monster": [
 		{
@@ -475,10 +480,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"Honkonomicon"
-		]
-	}
+	]
 }

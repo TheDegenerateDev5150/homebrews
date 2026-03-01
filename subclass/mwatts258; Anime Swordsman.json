@@ -5,6 +5,9 @@
 				"json": "AS",
 				"abbreviation": "AS",
 				"full": "Modified Anime Swordsman",
+				"url": "https://www.dndbeyond.com/subclasses/930679-anime-swordsman-modified",
+				"version": "1",
+				"dateReleased": "2022-11-20",
 				"authors": [
 					"mwatts258",
 					"Turk"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-11-20",
-				"version": "1",
-				"url": "https://www.dndbeyond.com/subclasses/930679-anime-swordsman-modified",
 				"color": "ee8600"
 			}
 		],

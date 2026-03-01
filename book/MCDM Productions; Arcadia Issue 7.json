@@ -5,6 +5,9 @@
 				"json": "Ar7",
 				"abbreviation": "Ar7",
 				"full": "Arcadia Issue 7",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.0",
+				"dateReleased": "2021-08-01",
 				"authors": [
 					"Hannah Rose",
 					"Sara Thompson",
@@ -13,9 +16,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-08-01",
-				"version": "1.0",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "476748"
 			}
 		],
@@ -32,6 +32,11 @@
 		"dateAdded": 1678274581,
 		"dateLastModified": 1767026822,
 		"_dateLastModifiedHash": "8ac2cdf711"
+	},
+	"_test": {
+		"references": [
+			"SaF"
+		]
 	},
 	"reward": [
 		{
@@ -5137,10 +5142,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"SaF"
-		]
-	}
+	]
 }

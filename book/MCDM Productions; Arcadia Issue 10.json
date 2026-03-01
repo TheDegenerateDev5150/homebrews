@@ -5,6 +5,9 @@
 				"json": "Arcadia10",
 				"abbreviation": "Ar10",
 				"full": "Arcadia Issue 10",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "11/2021",
+				"dateReleased": "2021-11-24",
 				"authors": [
 					"Anthony Joyce",
 					"Celeste Conowitch",
@@ -15,9 +18,6 @@
 					"ForeverAlwaysGM (Billiam94)",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-11-24",
-				"version": "11/2021",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "e1753a"
 			}
 		],
@@ -34,6 +34,12 @@
 		"dateAdded": 1721599800,
 		"dateLastModified": 1767026822,
 		"_dateLastModifiedHash": "6357fb3e79"
+	},
+	"_test": {
+		"references": [
+			"ILL",
+			"KaW"
+		]
 	},
 	"spell": [
 		{
@@ -4611,11 +4617,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"ILL",
-			"KaW"
-		]
-	}
+	]
 }

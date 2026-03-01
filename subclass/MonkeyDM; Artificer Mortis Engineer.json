@@ -5,6 +5,9 @@
 				"json": "SGttEH-AME",
 				"abbreviation": "SGttEH:AME",
 				"full": "Steinhardt's Guide to the Eldritch Hunt: Artificer Mortis Engineer",
+				"url": "https://www.patreon.com/posts/artificer-mortis-117104352",
+				"version": "2024-12-01",
+				"dateReleased": "2024-12-01",
 				"authors": [
 					"Evan \"MonkeyDM\" Mascaro",
 					"MonkeyDM"
@@ -12,9 +15,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2024-12-01",
-				"version": "2024-12-01",
-				"url": "https://www.patreon.com/posts/artificer-mortis-117104352",
 				"color": "292f3c"
 			}
 		],
@@ -26,6 +26,11 @@
 		"dateAdded": 1733832887,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "f6e5f4104a"
+	},
+	"_test": {
+		"references": [
+			"SGttEH"
+		]
 	},
 	"subclass": [
 		{
@@ -540,10 +545,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"SGttEH"
-		]
-	}
+	]
 }

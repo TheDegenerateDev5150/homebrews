@@ -5,6 +5,9 @@
 				"json": "Arcadia11",
 				"abbreviation": "Ar11",
 				"full": "Arcadia Issue 11",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "12/2021",
+				"dateReleased": "2021-12-22",
 				"authors": [
 					"James Introcaso",
 					"Justice Ramin Arman",
@@ -15,9 +18,6 @@
 					"icexist",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-12-22",
-				"version": "12/2021",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "004663"
 			}
 		],
@@ -35,6 +35,15 @@
 		"dateAdded": 1693765452,
 		"dateLastModified": 1767026822,
 		"_dateLastModifiedHash": "254bd3921c"
+	},
+	"_test": {
+		"references": [
+			"Ar1",
+			"Ar3",
+			"BST",
+			"ILL",
+			"KaW"
+		]
 	},
 	"race": [
 		{
@@ -6350,14 +6359,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"Ar1",
-			"Ar3",
-			"BST",
-			"ILL",
-			"KaW"
-		]
-	}
+	]
 }

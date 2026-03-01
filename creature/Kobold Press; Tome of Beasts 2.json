@@ -5,6 +5,8 @@
 				"json": "ToB2",
 				"abbreviation": "ToB2",
 				"full": "Tome of Beasts 2",
+				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover-pdf/",
+				"version": "1.0.2",
 				"authors": [
 					"Brian Suskind",
 					"Celeste Conowitch",
@@ -20,8 +22,6 @@
 				"convertedBy": [
 					"Spappz"
 				],
-				"version": "1.0.2",
-				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover-pdf/",
 				"color": "89181A"
 			}
 		],

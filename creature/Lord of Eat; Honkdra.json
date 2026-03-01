@@ -5,15 +5,15 @@
 				"json": "Honkdra",
 				"abbreviation": "Honkdra",
 				"full": "Honkdra",
+				"url": "https://www.dmsguild.com/en/product/357228/honkdra",
+				"version": "v5.024",
+				"dateReleased": "2021-05-10",
 				"authors": [
 					"Lord of Eat"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-05-10",
-				"version": "v5.024",
-				"url": "https://www.dmsguild.com/en/product/357228/honkdra",
 				"color": "30272b",
 				"colorNight": "f9b9bb"
 			}

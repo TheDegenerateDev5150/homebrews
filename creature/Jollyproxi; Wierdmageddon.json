@@ -5,11 +5,11 @@
 				"json": "BillCipher",
 				"abbreviation": "Bill",
 				"full": "Bill Cipher",
-				"version": "4.0",
 				"url": "https://homebrewery.naturalcrit.com/share/jnsp--iPLlRk",
+				"version": "4.0",
 				"authors": [
-					"u/Space_GoblinDM",
-					"Jolyproxi"
+					"Jolyproxi",
+					"u/Space_GoblinDM"
 				],
 				"convertedBy": [
 					"Jollyproxi"

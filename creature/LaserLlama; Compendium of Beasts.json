@@ -5,6 +5,9 @@
 				"json": "LLCompendiumOfBeasts",
 				"abbreviation": "LLCoB",
 				"full": "Compendium of Beasts",
+				"url": "https://www.gmbinder.com/share/-OCTyV0iLRGFr9WfdtJy",
+				"version": "v2.0.0_1745667953729",
+				"dateReleased": "2025-04-18",
 				"authors": [
 					"LaserLlama"
 				],
@@ -12,9 +15,6 @@
 					"Lyra [he/him]",
 					"TheRomanDragon"
 				],
-				"dateReleased": "2025-04-18",
-				"version": "v2.0.0_1745667953729",
-				"url": "https://www.gmbinder.com/share/-OCTyV0iLRGFr9WfdtJy",
 				"color": "d6b559"
 			}
 		],
@@ -26,6 +26,11 @@
 		"dateAdded": 1745013823,
 		"dateLastModified": 1760390622,
 		"_dateLastModifiedHash": "bbb97d0d37"
+	},
+	"_test": {
+		"references": [
+			"LLLaserLlama"
+		]
 	},
 	"monster": [
 		{
@@ -14164,10 +14169,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"LLLaserLlama"
-		]
-	}
+	]
 }

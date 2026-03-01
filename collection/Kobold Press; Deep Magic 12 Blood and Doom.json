@@ -6,6 +6,9 @@
 				"json": "DM12",
 				"abbreviation": "DM:BaD",
 				"full": "Deep Magic 12: Blood and Doom",
+				"url": "https://koboldpress.com/kpstore/product/deep-magic-blood-doom-pdf-5th-edition/",
+				"version": "@ 2017",
+				"dateReleased": "2017-06-28",
 				"authors": [
 					"Chris Harris",
 					"Steve Winter"
@@ -13,9 +16,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2017-06-28",
-				"version": "@ 2017",
-				"url": "https://koboldpress.com/kpstore/product/deep-magic-blood-doom-pdf-5th-edition/",
 				"color": "760f0b"
 			}
 		],
@@ -24,6 +24,11 @@
 		"dateAdded": 1706371402,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "5db61cfb9d"
+	},
+	"_test": {
+		"references": [
+			"ToB"
+		]
 	},
 	"subclass": [
 		{
@@ -3802,10 +3807,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"ToB"
-		]
-	}
+	]
 }

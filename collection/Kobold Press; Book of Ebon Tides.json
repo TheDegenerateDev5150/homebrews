@@ -5,15 +5,15 @@
 				"json": "BookOfEbonTides",
 				"abbreviation": "BoET",
 				"full": "Book of Ebon Tides",
+				"url": "https://marketplace.dndbeyond.com/beyond-digital/SRC-00151",
+				"version": "1.0.0",
+				"dateReleased": "2022-09-20",
 				"authors": [
 					"Kobold Press"
 				],
 				"convertedBy": [
 					"Giddy"
 				],
-				"dateReleased": "2022-09-20",
-				"version": "1.0.0",
-				"url": "https://marketplace.dndbeyond.com/beyond-digital/SRC-00151",
 				"partnered": true
 			}
 		],

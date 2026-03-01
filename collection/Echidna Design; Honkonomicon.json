@@ -5,6 +5,9 @@
 				"json": "Honkonomicon",
 				"abbreviation": "HONK",
 				"full": "Honkonomicon",
+				"url": "https://www.dmsguild.com/product/432420/Honkonomicon",
+				"version": "v.1.0 01/04/2023",
+				"dateReleased": "2023-04-01",
 				"authors": [
 					"Alberto Ferrari",
 					"Echidna Design",
@@ -15,9 +18,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2023-04-01",
-				"version": "v.1.0 01/04/2023",
-				"url": "https://www.dmsguild.com/product/432420/Honkonomicon",
 				"color": "c2932b"
 			}
 		],
@@ -32,6 +32,11 @@
 		"dateAdded": 1757254475,
 		"dateLastModified": 1769032512,
 		"_dateLastModifiedHash": "f4e6c5f3a3"
+	},
+	"_test": {
+		"references": [
+			"CircleoftheHonk"
+		]
 	},
 	"subclass": [
 		{
@@ -15494,10 +15499,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"CircleoftheHonk"
-		]
-	}
+	]
 }

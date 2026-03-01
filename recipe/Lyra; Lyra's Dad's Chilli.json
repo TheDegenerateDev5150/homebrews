@@ -5,6 +5,8 @@
 				"json": "LyraChilli",
 				"abbreviation": "LsDsC",
 				"full": "Lyra's Dad's Chilli",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1",
 				"authors": [
 					"Lyra",
 					"Lyra's Dad"
@@ -12,8 +14,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"version": "1",
-				"url": "https://github.com/TheGiddyLimit/homebrew",
 				"color": "8f291d"
 			}
 		],

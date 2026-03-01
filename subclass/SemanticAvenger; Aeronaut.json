@@ -5,16 +5,16 @@
 				"json": "AERO",
 				"abbreviation": "AERO",
 				"full": "Aeronaut specialization for Artificer",
+				"url": "https://www.gmbinder.com/share/-Mpc8W4JrzaGZXKSTTih",
+				"version": "v3.0",
+				"dateReleased": "2021-12-01",
 				"authors": [
 					"hankmakesstuff",
 					"SemanticAvenger"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
-				],
-				"dateReleased": "2021-12-01",
-				"version": "v3.0",
-				"url": "https://www.gmbinder.com/share/-Mpc8W4JrzaGZXKSTTih"
+				]
 			}
 		],
 		"edition": "classic",

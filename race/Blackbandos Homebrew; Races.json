@@ -5,6 +5,8 @@
 				"json": "BBHR",
 				"abbreviation": "BBHR",
 				"full": "Blackbando's Homebrew Races: Oni & Pandaren",
+				"url": "https://blackbandos-homebrew.fandom.com/wiki/Category:Races",
+				"version": "2020.01.25",
 				"authors": [
 					"Blackbando's Homebrew"
 				],
@@ -12,8 +14,6 @@
 					"Lyra [he/him]",
 					"p4535992"
 				],
-				"version": "2020.01.25",
-				"url": "https://blackbandos-homebrew.fandom.com/wiki/Category:Races",
 				"targetSchema": "1.7.0"
 			}
 		],

@@ -5,6 +5,8 @@
 				"json": "ToB",
 				"abbreviation": "ToB",
 				"full": "Tome of Beasts",
+				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
+				"version": "1.0.1",
 				"authors": [
 					"Chris Harris",
 					"Dan Dillon",
@@ -17,8 +19,6 @@
 					"mrhorseshoe",
 					"Spappz"
 				],
-				"version": "1.0.1",
-				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
 				"color": "89181A",
 				"targetSchema": "1.3.4"
 			}

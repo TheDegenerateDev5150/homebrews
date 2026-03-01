@@ -5,6 +5,9 @@
 				"json": "KTKCG",
 				"abbreviation": "KT: KCG",
 				"full": "KibblesTasty: Kibbles' Crafting Guide",
+				"url": "https://www.reddit.com/r/UnearthedArcana/comments/u2mmzz/kibbles_crafting_system_a_comprehensive_system_of/",
+				"version": "v1.0.6a",
+				"dateReleased": "2022-01-08",
 				"authors": [
 					"KibblesTasty"
 				],
@@ -12,9 +15,6 @@
 					"cadowtin [he/him]",
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-01-08",
-				"version": "v1.0.6a",
-				"url": "https://www.reddit.com/r/UnearthedArcana/comments/u2mmzz/kibbles_crafting_system_a_comprehensive_system_of/",
 				"color": "856844"
 			}
 		],
@@ -23,6 +23,14 @@
 		"dateAdded": 1665517025,
 		"dateLastModified": 1746523369,
 		"_dateLastModifiedHash": "aa7b82ed6b"
+	},
+	"_test": {
+		"references": [
+			"KibbleInventor",
+			"KibblesTasty:cc",
+			"KT:O",
+			"ktp"
+		]
 	},
 	"spell": [
 		{
@@ -34937,13 +34945,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"KibbleInventor",
-			"KibblesTasty:cc",
-			"KT:O",
-			"ktp"
-		]
-	}
+	]
 }

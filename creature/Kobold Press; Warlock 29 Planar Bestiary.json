@@ -5,6 +5,9 @@
 				"json": "W29PB",
 				"abbreviation": "W29:PB",
 				"full": "Warlock 29: Planar Bestiary",
+				"url": "https://koboldpress.com/kpstore/product/warlock-patreon-planar-bestiary-pdf/",
+				"version": "1",
+				"dateReleased": "2021-11-22",
 				"authors": [
 					"Amber Stewart",
 					"Kelly Pawlik",
@@ -14,9 +17,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2021-11-22",
-				"version": "1",
-				"url": "https://koboldpress.com/kpstore/product/warlock-patreon-planar-bestiary-pdf/",
 				"color": "4d4d4d"
 			}
 		],
@@ -25,6 +25,13 @@
 		"dateAdded": 1682168201,
 		"dateLastModified": 1734389822,
 		"_dateLastModifiedHash": "483f28bbca"
+	},
+	"_test": {
+		"references": [
+			"CCodex",
+			"ToB",
+			"ToB2"
+		]
 	},
 	"monster": [
 		{
@@ -3530,12 +3537,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"CCodex",
-			"ToB",
-			"ToB2"
-		]
-	}
+	]
 }

@@ -5,15 +5,15 @@
 				"json": "LLLaserLlama",
 				"abbreviation": "LLLL",
 				"full": "Laser Llama",
+				"url": "https://www.gmbinder.com/share/-O7o2cNFhle7UKgXAMkk",
+				"version": "v1",
+				"dateReleased": "2025-03-19",
 				"authors": [
 					"LaserLlama"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
-				],
-				"dateReleased": "2025-03-19",
-				"version": "v1",
-				"url": "https://www.gmbinder.com/share/-O7o2cNFhle7UKgXAMkk"
+				]
 			}
 		],
 		"edition": "one",

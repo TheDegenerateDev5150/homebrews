@@ -5,6 +5,9 @@
 				"json": "Arcadia19",
 				"abbreviation": "Ar19",
 				"full": "Arcadia Issue 19 ",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"version": "1.0",
+				"dateReleased": "2022-08-01",
 				"authors": [
 					"Amber Litke",
 					"Anthony Joyce-Rivera",
@@ -16,9 +19,6 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-08-01",
-				"version": "1.0",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "012f51"
 			}
 		],
@@ -38,6 +38,12 @@
 		"dateAdded": 1726660067,
 		"dateLastModified": 1767026822,
 		"_dateLastModifiedHash": "68946b549e"
+	},
+	"_test": {
+		"references": [
+			"Ar8",
+			"ILL"
+		]
 	},
 	"item": [
 		{
@@ -13835,11 +13841,5 @@
 				}
 			]
 		}
-	],
-	"_test": {
-		"references": [
-			"Ar8",
-			"ILL"
-		]
-	}
+	]
 }

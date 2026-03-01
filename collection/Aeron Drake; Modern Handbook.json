@@ -5,15 +5,15 @@
 				"json": "MH",
 				"abbreviation": "MH",
 				"full": "Modern Handbook",
+				"url": "https://www.gmbinder.com/share/-M8CqWP2BL4GITsgyDM2",
+				"version": "3.0",
+				"dateReleased": "2022-06-16",
 				"authors": [
 					"Aeron Drake"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"dateReleased": "2022-06-16",
-				"version": "3.0",
-				"url": "https://www.gmbinder.com/share/-M8CqWP2BL4GITsgyDM2",
 				"color": "006bb3"
 			}
 		],

@@ -5,16 +5,16 @@
 				"json": "WidowgastWoF",
 				"abbreviation": "WWoF",
 				"full": "Widowgast's Web of Fire",
+				"url": "https://x.com/VoiceOfOBrien/status/1182533609283915776",
+				"version": "1",
+				"dateReleased": "2019-10-11",
 				"authors": [
 					"Liam O'Brien",
 					"Matthew Mercer"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
-				],
-				"dateReleased": "2019-10-11",
-				"version": "1",
-				"url": "https://x.com/VoiceOfOBrien/status/1182533609283915776"
+				]
 			}
 		],
 		"edition": "classic",
