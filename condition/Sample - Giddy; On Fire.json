@@ -12,13 +12,15 @@
 				"url": "https://github.com/TheGiddyLimit/homebrew"
 			}
 		],
-		"references": [
-			"GiddyAction"
-		],
 		"edition": "classic",
 		"dateAdded": 0,
 		"dateLastModified": 1772124006,
 		"_dateLastModifiedHash": "f94c7ecc26"
+	},
+	"_test": {
+		"references": [
+			"GiddyAction"
+		]
 	},
 	"condition": [
 		{

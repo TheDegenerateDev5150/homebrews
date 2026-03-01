@@ -24,9 +24,6 @@
 				"MM"
 			]
 		},
-		"references": [
-			"MonstersOfDrakkenheim"
-		],
 		"internalCopies": [
 			"background"
 		],
@@ -34,6 +31,11 @@
 		"dateAdded": 1751124424,
 		"dateLastModified": 1772043067,
 		"_dateLastModifiedHash": "7f7a0609b1"
+	},
+	"_test": {
+		"references": [
+			"MonstersOfDrakkenheim"
+		]
 	},
 	"background": [
 		{

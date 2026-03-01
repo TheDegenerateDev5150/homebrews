@@ -34,14 +34,16 @@
 			"IS:T": "Inventor Specialization, Thundersmith",
 			"IS:W": "Inventor Specialization, Warsmith"
 		},
-		"references": [
-			"KibblesTasty:CC",
-			"ktp"
-		],
 		"dateAdded": 1570574817,
 		"dateLastModified": 1772121963,
 		"_dateLastModifiedHash": "05a40947ab",
 		"edition": "classic"
+	},
+	"_test": {
+		"references": [
+			"KibblesTasty:CC",
+			"ktp"
+		]
 	},
 	"class": [
 		{

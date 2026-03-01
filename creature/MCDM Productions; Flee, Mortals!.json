@@ -68,17 +68,19 @@
 				"color": "00adb3"
 			}
 		},
-		"references": [
-			"SaF",
-			"BST",
-			"KaW",
-			"TalPsi"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1692310105,
 		"dateLastModified": 1772039365,
 		"_dateLastModifiedHash": "908bc2d5fa"
+	},
+	"_test": {
+		"references": [
+			"SaF",
+			"BST",
+			"KaW",
+			"TalPsi"
+		]
 	},
 	"optionalfeature": [
 		{

@@ -25,13 +25,15 @@
 			"ItdBoon": "Interdict Boon",
 			"IllMastery": "Combat Mastery"
 		},
-		"references": [
-			"FleeMortals"
-		],
 		"edition": "classic",
 		"dateAdded": 1732652987,
 		"dateLastModified": 1772043067,
 		"_dateLastModifiedHash": "9d96c04cd2"
+	},
+	"_test": {
+		"references": [
+			"FleeMortals"
+		]
 	},
 	"class": [
 		{
