@@ -18,9 +18,6 @@
 				"color": "fec273"
 			}
 		],
-		"references": [
-			"UAArtificer"
-		],
 		"optionalFeatureTypes": {
 			"CT": "Crafter Type"
 		},
@@ -28984,5 +28981,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"UAArtificer"
+		]
+	}
 }

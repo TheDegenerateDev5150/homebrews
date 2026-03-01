@@ -22,10 +22,6 @@
 				"color": "2acc74"
 			}
 		],
-		"references": [
-			"KaW",
-			"SaF"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1649542017,
@@ -7220,5 +7216,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"KaW",
+			"SaF"
+		]
+	}
 }

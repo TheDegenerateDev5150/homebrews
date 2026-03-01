@@ -29,9 +29,6 @@
 				"MM"
 			]
 		},
-		"references": [
-			"SaF"
-		],
 		"edition": "classic",
 		"dateAdded": 1613648837,
 		"dateLastModified": 1769032512,
@@ -7152,5 +7149,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"SaF"
+		]
+	}
 }

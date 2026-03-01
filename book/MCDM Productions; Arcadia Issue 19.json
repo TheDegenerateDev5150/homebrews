@@ -34,10 +34,6 @@
 			"monster",
 			"monsterFluff"
 		],
-		"references": [
-			"Ar8",
-			"ILL"
-		],
 		"edition": "one",
 		"dateAdded": 1726660067,
 		"dateLastModified": 1767026822,
@@ -13839,5 +13835,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"Ar8",
+			"ILL"
+		]
+	}
 }

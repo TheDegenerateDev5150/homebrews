@@ -30,13 +30,6 @@
 			"raceFluff",
 			"monsterFluff"
 		],
-		"references": [
-			"Ar1",
-			"Ar3",
-			"BST",
-			"ILL",
-			"KaW"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1693765452,
@@ -6357,5 +6350,14 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"Ar1",
+			"Ar3",
+			"BST",
+			"ILL",
+			"KaW"
+		]
+	}
 }

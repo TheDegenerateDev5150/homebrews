@@ -29,10 +29,6 @@
 		"internalCopies": [
 			"itemFluff"
 		],
-		"references": [
-			"ILL",
-			"KaW"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1721599800,
@@ -4615,5 +4611,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"ILL",
+			"KaW"
+		]
+	}
 }

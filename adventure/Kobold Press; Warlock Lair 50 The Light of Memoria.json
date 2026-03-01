@@ -23,11 +23,6 @@
 				"MM"
 			]
 		},
-		"references": [
-			"KPSC",
-			"ToB",
-			"WL50"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1706388363,
@@ -3748,5 +3743,12 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"KPSC",
+			"ToB",
+			"WL50"
+		]
+	}
 }

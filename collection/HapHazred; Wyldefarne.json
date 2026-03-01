@@ -17,9 +17,6 @@
 				"color": "f1ecd8"
 			}
 		],
-		"references": [
-			"BloodInTheCompany"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1641154357,
@@ -1725,5 +1722,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"BloodInTheCompany"
+		]
+	}
 }

@@ -19,9 +19,6 @@
 				"color": "760f0b"
 			}
 		],
-		"references": [
-			"ToB"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1706371402,
@@ -3805,5 +3802,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"ToB"
+		]
+	}
 }

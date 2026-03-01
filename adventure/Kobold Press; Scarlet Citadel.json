@@ -36,14 +36,6 @@
 			"item",
 			"itemFluff"
 		],
-		"references": [
-			"CCodex",
-			"DM05",
-			"DM07",
-			"KPDM",
-			"ToB",
-			"W02DM"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1703673674,
@@ -65125,5 +65117,15 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"CCodex",
+			"DM05",
+			"DM07",
+			"KPDM",
+			"ToB",
+			"W02DM"
+		]
+	}
 }

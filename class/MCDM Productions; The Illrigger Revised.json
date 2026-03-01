@@ -21,9 +21,6 @@
 		"internalCopies": [
 			"itemFluff"
 		],
-		"references": [
-			"FleeMortals"
-		],
 		"optionalFeatureTypes": {
 			"ItdBoon": "Interdict Boon",
 			"IllMastery": "Combat Mastery"

@@ -17,9 +17,6 @@
 				"color": "c68d5e"
 			}
 		],
-		"references": [
-			"KibblesTasty:CC"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1712163563,
@@ -1537,5 +1534,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"KibblesTasty:CC"
+		]
+	}
 }

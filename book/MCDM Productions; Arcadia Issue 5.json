@@ -26,10 +26,6 @@
 				"MM"
 			]
 		},
-		"references": [
-			"Ar3",
-			"SaF"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1626427893,
@@ -4552,5 +4548,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"Ar3",
+			"SaF"
+		]
+	}
 }

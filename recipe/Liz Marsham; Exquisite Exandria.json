@@ -23,9 +23,6 @@
 		"internalCopies": [
 			"recipeFluff"
 		],
-		"references": [
-			"TalDoreiCampaignSettingReborn"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1693307238,
@@ -12725,5 +12722,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"TalDoreiCampaignSettingReborn"
+		]
+	}
 }

@@ -17,9 +17,6 @@
 				"color": "cfe7ce"
 			}
 		],
-		"references": [
-			"UAModifyingClasses"
-		],
 		"optionalFeatureTypes": {
 			"MR:FT": "Martial Ranger: Favored Terrain",
 			"MR:BS": "Martial Ranger: Basic Snare",
@@ -9161,5 +9158,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"UAModifyingClasses"
+		]
+	}
 }

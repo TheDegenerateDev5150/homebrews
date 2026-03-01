@@ -24,9 +24,6 @@
 		"internalCopies": [
 			"monsterFluff"
 		],
-		"references": [
-			"CircleoftheHonk"
-		],
 		"optionalFeatureTypes": {
 			"FS:F-S": "Fighting Style; Fighter\u2014Squarkmaster"
 		},
@@ -15497,5 +15494,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"CircleoftheHonk"
+		]
+	}
 }

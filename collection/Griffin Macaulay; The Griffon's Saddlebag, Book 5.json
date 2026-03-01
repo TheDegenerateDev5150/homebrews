@@ -1952,7 +1952,7 @@
 					"type": "entries",
 					"name": "Curse",
 					"entries": [
-						"This ring is cursed, and using the ring's property extends that curse to you. You remain cursed in this way until you're targeted by the {@spell remove curse} spell or similar magic. While cursed, you gain the following flaw: \"I have an urge to taste blood—even if it's just a little bit—every day. I mustn't let others find out.\""
+						"This ring is cursed, and using the ring's property extends that curse to you. You remain cursed in this way until you're targeted by the {@spell remove curse} spell or similar magic. While cursed, you gain the following flaw: \"I have an urge to taste blood\u2014even if it's just a little bit\u2014every day. I mustn't let others find out.\""
 					]
 				}
 			],

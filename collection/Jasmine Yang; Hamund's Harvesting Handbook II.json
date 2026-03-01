@@ -18,10 +18,6 @@
 				"color": "ffd6a1"
 			}
 		],
-		"references": [
-			"HHHVI",
-			"UAArtificer"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1662901527,
@@ -38447,5 +38443,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"HHHVI",
+			"UAArtificer"
+		]
+	}
 }

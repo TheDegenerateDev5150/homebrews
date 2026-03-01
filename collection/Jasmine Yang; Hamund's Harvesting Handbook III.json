@@ -18,10 +18,6 @@
 				"color": "cb9b5b"
 			}
 		],
-		"references": [
-			"HHHVI",
-			"HHHVII"
-		],
 		"optionalFeatureTypes": {
 			"HHH:BT": "Hamund: Butcher's Tool",
 			"HHH:MS": "Hamund: Mirrored Stance"
@@ -29519,5 +29515,11 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"HHHVI",
+			"HHHVII"
+		]
+	}
 }

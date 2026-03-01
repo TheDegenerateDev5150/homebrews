@@ -25,11 +25,6 @@
 				"MM"
 			]
 		},
-		"references": [
-			"BST",
-			"ILL",
-			"TalPsi"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1725791262,
@@ -5434,5 +5429,12 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"BST",
+			"ILL",
+			"TalPsi"
+		]
+	}
 }

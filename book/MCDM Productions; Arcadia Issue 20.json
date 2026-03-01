@@ -28,12 +28,6 @@
 		"internalCopies": [
 			"monster"
 		],
-		"references": [
-			"Ar18",
-			"KaW",
-			"SaF",
-			"TalDoreiCampaignSettingReborn"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1697825233,
@@ -16212,5 +16206,13 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"Ar18",
+			"KaW",
+			"SaF",
+			"TalDoreiCampaignSettingReborn"
+		]
+	}
 }

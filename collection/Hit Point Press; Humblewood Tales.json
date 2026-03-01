@@ -41,9 +41,6 @@
 			"monster",
 			"monsterFluff"
 		],
-		"references": [
-			"HumblewoodCampaignSetting"
-		],
 		"fonts": {
 			"HPPHumblescratch": "https://raw.githack.com/TheGiddyLimit/homebrew-img/main/font/HumblewoodTales/hpphumblescratch-webfont.woff2"
 		},
@@ -34399,5 +34396,10 @@
 				}
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"HumblewoodCampaignSetting"
+		]
+	}
 }

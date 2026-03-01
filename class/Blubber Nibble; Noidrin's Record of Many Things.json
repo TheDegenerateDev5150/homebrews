@@ -40,9 +40,6 @@
 				"NMD"
 			]
 		},
-		"references": [
-			"NMD"
-		],
 		"optionalFeatureTypes": {
 			"NMD:FS": "Nomad: Fighting Style",
 			"NMD:EA": "Nomad: Elemental Affinity",
@@ -1194,5 +1191,10 @@
 				"You have trained yourself to utilize portals while throwing weapons accurately, allowing thrown weapons to make {@classFeature Far Strike|Nomad (Modified)|NMD:BN|1|NMD:BN} attacks. The range of your thrown weapon attacks increases by your {@classFeature far strike|Nomad (Modified)|NMD:BN|1|NMD:BN} range. Additionally, when you make an unsuccessful thrown weapon attack, your weapon returns to your hand immediately through a second portal."
 			]
 		}
-	]
+	],
+	"_test": {
+		"references": [
+			"NMD"
+		]
+	}
 }
